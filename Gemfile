@@ -40,7 +40,7 @@ gem 'aasm'
 gem 'figaro'
 gem 'fog'
 gem 'carrierwave-qiniu'
-gem 'qiniu-rs'
+gem 'qiniu', '~> 6.8.1'
 
 
 
